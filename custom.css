@@ -1,0 +1,110 @@
+body{
+	margin: 0;
+	min-width: 1200px;
+	max-width: 1156px;
+}
+.navbar, .content{
+	margin-left: 0.5em;
+	width: 46.5em;
+}
+.navbar{
+	height: 5em;
+	border: 1px solid grey;
+	background-color: #bfbfbf;
+}
+.content{
+	border: 1px solid green;
+	height: 100em;
+	border-top-right-radius: 8px;
+	padding-left: 2.7em;
+	background-color: #f2f2f2;
+}
+.search, .advertisements, .newsletter{
+	width: 26.5em;
+}
+.search{
+	height: 10em;
+	border: 1px solid pink;
+	float: right;
+	background-color: #a6a6a6;
+}
+.advertisements{
+	height: 14em;
+	border: 1px solid red;
+	clear: right;
+	float: right;
+	background-color: grey;
+}
+.newsletter{
+	height: 15em;
+	border: 1px solid purple;
+	float: right;
+	clear: right;
+	width: 27.4em;
+	border-top-right-radius: 12px;
+	border-bottom-right-radius:12px;
+	margin-right: 0.5em;
+	background-color: #cccccc;
+}
+.book-recommendations{
+	border: 1px solid blue;
+}
+.hosted-on-message{
+	border: 1px solid violet;
+	margin-top: 30em;
+}
+.hide{
+	height: 1.5em;
+	width: 20px;
+	float: right;
+	clear: right;
+}
+.job-board{
+	border:1px solid yellow;
+}
+.menu-bar{
+	border: 1px solid grey;
+	height: 5em;
+	width: 43.7em;
+	background-color: #e6e6e6;
+}
+.b{
+	box-sizing: border-box;
+}
+article{
+	height: 50em;
+	border: 1px solid green;
+	border-bottom: 4px solid #41B7D8;
+}
+.navbar div{
+	float: left;
+	width: 4.5em;
+	height: 5em;
+	border: 1px solid red;
+}
+.navbar div:first-child{
+	width: 12.5em;
+	background-color: #999999;
+}
+.title{
+	width: 100%;
+	border: 1px solid red;
+	height: 6em;
+}
+.author{
+	height: 2em;
+	background-color: white;
+}
+.info{
+	height: 16px;
+	width: 100%;
+	background-color: #a6a6a6;
+}
+.text{
+	width: 95%;
+	background-color: white;
+}
+h1{
+	font-size: 28px;
+	background-color: white;
+}
