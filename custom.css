@@ -9,11 +9,9 @@ body{
 }
 .navbar{
 	height: 5em;
-	border: 1px solid grey;
 	background-color: #bfbfbf;
 }
 .content{
-	border: 1px solid green;
 	height: 100em;
 	border-top-right-radius: 8px;
 	padding-left: 2.7em;
@@ -24,20 +22,17 @@ body{
 }
 .search{
 	height: 10em;
-	border: 1px solid pink;
 	float: right;
 	background-color: #a6a6a6;
 }
 .advertisements{
 	height: 14em;
-	border: 1px solid red;
 	clear: right;
 	float: right;
 	background-color: grey;
 }
 .newsletter{
 	height: 15em;
-	border: 1px solid purple;
 	float: right;
 	clear: right;
 	width: 27.4em;
@@ -46,11 +41,8 @@ body{
 	margin-right: 0.5em;
 	background-color: #cccccc;
 }
-.book-recommendations{
-	border: 1px solid blue;
-}
+
 .hosted-on-message{
-	border: 1px solid violet;
 	margin-top: 30em;
 }
 .hide{
@@ -59,11 +51,8 @@ body{
 	float: right;
 	clear: right;
 }
-.job-board{
-	border:1px solid yellow;
-}
+
 .menu-bar{
-	border: 1px solid grey;
 	height: 5em;
 	width: 43.7em;
 	background-color: #e6e6e6;
@@ -73,14 +62,13 @@ body{
 }
 article{
 	height: 50em;
-	border: 1px solid green;
 	border-bottom: 4px solid #41B7D8;
 }
 .navbar div{
 	float: left;
 	width: 4.5em;
 	height: 5em;
-	border: 1px solid red;
+	border-right: 1px solid grey;
 }
 .navbar div:first-child{
 	width: 12.5em;
@@ -88,7 +76,6 @@ article{
 }
 .title{
 	width: 100%;
-	border: 1px solid red;
 	height: 6em;
 }
 .author{
